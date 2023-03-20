@@ -1,0 +1,54 @@
+{
+  "quiz": [
+    {
+      "questions": [
+        {
+          "Question": "What is surveysparrow ?",
+          "QuestionType": "",
+          "Options": [
+            "Food Delivey",
+            "Survey Management",
+            "Employ Feedback ",
+            "Online Bank"
+          ],
+          "Answers": [
+            "2",
+            "3"
+          ],
+          "Type": "CheckBox"
+        },
+        {
+          "Question": "Choose the correct location of surveysparrow ?",
+          "QuestionType": "",
+          "Options": [
+            "Kochi",
+            "kollam",
+            "calicut"
+          ],
+          "Answers": [
+            "1"
+          ],
+          "Type": "Radio"
+        },
+        {
+          "Question": "When was surveysparrow founded ?",
+          "QuestionType": "",
+          "Options": [
+            "2017",
+            "2018",
+            "2019",
+            "2020"
+          ],
+          "Answers": [
+            "1"
+          ],
+          "Type": "DropDown"
+        }
+      ],
+      "title": "SurveySparrow",
+      "description": "Quiz About SurveySparrow",
+      "percentage": "20",
+      "id": 1
+    }
+  ]
+}
